@@ -1,0 +1,14 @@
+#resetSplom {
+    position: absolute;
+    left: 700px;
+    z-index: 1000000000;
+    height: 30px;
+}
+
+.content{
+  display: inline-block;
+}
+
+.selected-range{
+  margin-top: 40px;
+}
